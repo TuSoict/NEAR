@@ -1,0 +1,11 @@
+/Users/tusoict/Work/near-donation/near-donation/integration-tests/target/debug/deps/near_units_core-51d292bacf8f4dbd.rmeta: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/tusoict/Work/near-donation/near-donation/integration-tests/target/debug/deps/libnear_units_core-51d292bacf8f4dbd.rlib: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/tusoict/Work/near-donation/near-donation/integration-tests/target/debug/deps/near_units_core-51d292bacf8f4dbd.d: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs
+
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/lib.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/gas.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/near.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/prefixes.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-units-core-0.2.0/src/util.rs:

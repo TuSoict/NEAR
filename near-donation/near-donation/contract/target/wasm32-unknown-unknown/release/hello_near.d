@@ -1,0 +1,1 @@
+/Users/tusoict/Work/near-donation/near-donation/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /Users/tusoict/Work/near-donation/near-donation/contract/src/interface_contract_call.rs /Users/tusoict/Work/near-donation/near-donation/contract/src/lib.rs

@@ -1,0 +1,7 @@
+/Users/tusoict/Work/nearexam/hello_work/integration-tests/target/debug/deps/form_urlencoded-d3140600c454e241.rmeta: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/form_urlencoded-1.0.1/src/lib.rs
+
+/Users/tusoict/Work/nearexam/hello_work/integration-tests/target/debug/deps/libform_urlencoded-d3140600c454e241.rlib: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/form_urlencoded-1.0.1/src/lib.rs
+
+/Users/tusoict/Work/nearexam/hello_work/integration-tests/target/debug/deps/form_urlencoded-d3140600c454e241.d: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/form_urlencoded-1.0.1/src/lib.rs
+
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/form_urlencoded-1.0.1/src/lib.rs:

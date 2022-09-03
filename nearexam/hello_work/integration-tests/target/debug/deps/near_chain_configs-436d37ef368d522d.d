@@ -1,0 +1,10 @@
+/Users/tusoict/Work/nearexam/hello_work/integration-tests/target/debug/deps/near_chain_configs-436d37ef368d522d.rmeta: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/lib.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/client_config.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/genesis_config.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/genesis_validate.rs
+
+/Users/tusoict/Work/nearexam/hello_work/integration-tests/target/debug/deps/libnear_chain_configs-436d37ef368d522d.rlib: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/lib.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/client_config.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/genesis_config.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/genesis_validate.rs
+
+/Users/tusoict/Work/nearexam/hello_work/integration-tests/target/debug/deps/near_chain_configs-436d37ef368d522d.d: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/lib.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/client_config.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/genesis_config.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/genesis_validate.rs
+
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/lib.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/client_config.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/genesis_config.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/near-chain-configs-0.14.0/src/genesis_validate.rs:

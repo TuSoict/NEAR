@@ -1,0 +1,1 @@
+/Users/tusoict/Work/nearexam/hello_work/contract/target/debug/libhello_near.dylib: /Users/tusoict/Work/nearexam/hello_work/contract/src/lib.rs /Users/tusoict/Work/nearexam/hello_work/contract/src/message.rs /Users/tusoict/Work/nearexam/hello_work/contract/src/storage_imp.rs

@@ -1,0 +1,18 @@
+/Users/tusoict/Work/near-donation/near-donation/contract/target/debug/deps/typenum-3e8ca2ee1a9153be.rmeta: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/tusoict/Work/near-donation/near-donation/contract/target/debug/build/typenum-e8fe838dc6cba218/out/op.rs /Users/tusoict/Work/near-donation/near-donation/contract/target/debug/build/typenum-e8fe838dc6cba218/out/consts.rs
+
+/Users/tusoict/Work/near-donation/near-donation/contract/target/debug/deps/typenum-3e8ca2ee1a9153be.d: /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /Users/tusoict/Work/near-donation/near-donation/contract/target/debug/build/typenum-e8fe838dc6cba218/out/op.rs /Users/tusoict/Work/near-donation/near-donation/contract/target/debug/build/typenum-e8fe838dc6cba218/out/consts.rs
+
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/Users/tusoict/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/Users/tusoict/Work/near-donation/near-donation/contract/target/debug/build/typenum-e8fe838dc6cba218/out/op.rs:
+/Users/tusoict/Work/near-donation/near-donation/contract/target/debug/build/typenum-e8fe838dc6cba218/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/tusoict/Work/near-donation/near-donation/contract/target/debug/build/typenum-e8fe838dc6cba218/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/tusoict/Work/near-donation/near-donation/contract/target/debug/build/typenum-e8fe838dc6cba218/out/op.rs
